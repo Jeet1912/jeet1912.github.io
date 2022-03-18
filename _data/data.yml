@@ -3,191 +3,157 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+#    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Abhijeet Sahdev
+    tagline: CSE Undergraduate
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    email: sahdevjeet@gmail.com
+#    phone: 012 345 6789
+#    citizenship:
+#    website: blog.webjeda.com #do not add http://
+    linkedin: abhijeet-sahdev
+#    xing: alandoe  
+    github: Jeet1912
+#    telegram: # add your nickname without '@' sign
+    gitlab: Jeet1912
+#    bitbucket:
+#    twitter: '@webjeda'
+#    stack-overflow: # Number/Username, e.g. 123456/alandoe
+#    codewars:
+#    goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       - idiom: English
         level: Native
+        
+      - idiom: Hindi
+        level: Native
 
       - idiom: French
-        level: Professional
+        level: Elementary
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: Telugu
+        level: Elementary
 
     interests:
-      - item: Climbing
+      - item: Cycling
         link:
 
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
+      - item: Abacus
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Graduated in Computer Science and Engineering from Manipal Institution of Technology, India. 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: B.Tech in Computer Science and Engineering
+      university: Manipal Academy of Higher Education
+      time: 2017 - 2021
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+    
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Software Engineering Intern
+      time: Dec 2020 – Jun 2021
+      company: MyHealthToday, San Francisco
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        Worked under the guidance of CTO, [[Mr Parth Srivastav]](www.linkedin.com/parth-srivastav) to develop a chronic disease - specific symptom tracking service
+        for senior citizens. 
+        - Developed a cross-platform front-end using React for web browsers and React Native for mobile app to ensure responsiveness across devices.
+        - Developed test suites to ensure that the application adhered to the design and was supported on target customer devices.
+        - Developed microservices using serverless AWS Lambda functions to create a scalable backend for the mobile and Alexa application.
+        - Implemented several Design Patterns like adapter and shared memory using React-Redux to create a single source of truth while developing the mobile app.
+        - Standardized formats of records in DynamoDB table using a script, preventing run-time errors in the future.
+        - Designed, coded and deployed RESTful APIs using SAM CLI and AWS CI/CD tools, reducing resource creation time at client side by 16%.
+      
+      [[Website - MHT]](https://innovation.uci.edu/2020/09/myhealthtoday-closed-beta-launch/) [[Website - Beta]](https://beta.myhealthtoday.care) [[Mobile App]](https://play.google.com/store/apps/details?id=com.myhealthtoday.myhealthjournal) 
+    
+    - role: Application Developer Intern
+      time: Sept 2020 – Nov 2020
+      company: Dystopia, Bangalore
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        [[Dystopia]](https://www.instagram.com/dystopia_india/) is a student-run animal welfare organisation. The industry of breeding and selling animals is cruel and unjust to animals that don't sell and end up abandoned on the streets to say the least. Through this app, they aim to eliminate the need of a breeder/middleman
+        - Collaborated with a team of developers and designers on a pet adoption app from scratch following Layered Architecture.
+        - Developed clean UI following the designs using standard Flutter widgets and
+        packages from pub.dev.
+        - Implemented user authentication and SSO using Firebase, reflecting state
+        changes using Provider.
+        - Prototyped a chat section using Cloud Firestore to connect users on the
+        application.
+        
+        [[Drive]](https://drive.google.com/drive/u/0/folders/1-sTJRTzDhOe6hhWDwRLPQeIVHUUeyMkh) [[Code Repo]](https://github.com/KevMamba/Dystopia-Animal-Adoption-App)
+       
+        
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Whatsapp Chatbot
+        tagline: "Serves as an emergency service for Dystopia, providing contacts of nearby vets and shelters."
+        
+      - title: Fingerprint Recognition System based on forensic datafrom KMC, Manipal.
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Open Source Contribution
+        link: "https://github.com/toystars/react-native-multiple-select/pull/171"
+        tagline: "Introduced a boolean argument to display #selected_items in ’react-native-multiple-select’ by toystars. [450+ stars, 250k+ downloads]."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Covid-19 Dashboard
+        link: "https://github.com/Jeet1912/Covid-19-Dashboard-using-REST-API"
+        tagline: "Shows global Covid-19 details using REST protocol to fetch data from a Firebase App, with offline functionality using shared preferences and error handling services."
+      
+      
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#publications:
+#    title: Publications
+#    intro: |
+#      You can list your publications in this section. Lorem ipsum dolor sit
+#      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#      bibendum fringilla a eu lectus.
+#    papers:
+#      - title: The Art of Computer Programming
+#        link: "#"
+#        authors: Donald E. Knuth
+#        conference: Addison-Wesley, 1968
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+#      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#        link: "#"
+#        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#      - title: A syntax directed compiler for Algol 60
+#        link: "#"
+#        authors: Edgar T. Irons
+#        conference: "Comm. ACM 4 (1961), 51–55"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+#skills:
+#    title: Skills &amp; Proficiency
 
-skills:
-    title: Skills &amp; Proficiency
+#    toolset:
+#      - name: Python & Django
+#        level: 98%
 
-    toolset:
-      - name: Python & Django
-        level: 98%
+#      - name: Javascript & jQuery
+#        level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+#      - name: Angular
+#        level: 98%
 
-      - name: Angular
-        level: 98%
+#      - name: HTML5 & CSS
+#        level: 95%
 
-      - name: HTML5 & CSS
-        level: 95%
+#      - name: Ruby on Rails
+#       level: 85%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+#     - name: Sketch & Photoshop
+#        level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+#    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
