@@ -25,7 +25,7 @@ sidebar:
 #    twitter: '@webjeda'
 #    stack-overflow: # Number/Username, e.g. 123456/alandoe
 #    codewars:
-    goodreads: goodreads.com/jeet1912
+    goodreads: 149158089-abhijeet
     pdf: https://jeet1912.github.io/assets/docs/cv.pdf
 
     languages:
@@ -56,9 +56,9 @@ career-profile:
 education:
     - degree: B.Tech in Computer Science and Engineering
       university: Manipal Academy of Higher Education
-      grade: CGPA - 7.78/10 (9.86, 9.0, 7.64 ...)
       time: 2017 - 2021
       details: |
+         CGPA - 7.78/10 (9.86, 9.0, 7.64 ...)
     
 experiences:
     - role: Software Engineering Intern
@@ -82,13 +82,14 @@ experiences:
       time: Sept 2020 – Nov 2020
       company: Dystopia, Bangalore
       details: |
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
         [Dystopia](https://www.instagram.com/dystopia_india/) is a student-run animal welfare organisation. The industry of breeding and selling animals is cruel and unjust to animals that don't sell and end up abandoned on the streets to say the least. Through this app, they aim to eliminate the need of a breeder/middleman
-            
-            
-             - Collaborated with a team of developers and designers on a pet adoption app from scratch following Layered Architecture.
-             - Developed clean UI following the designs using standard Flutter widgets and packages from pub.dev.
-             - Implemented user authentication and SSO using Firebase, reflecting state changes using Provider. 
-             - Prototyped a chat section using Cloud Firestore to connect users on the application.
+            - Collaborated with a team of developers and designers on a pet adoption app from scratch following Layered Architecture.
+            - Developed clean UI following the designs using standard Flutter widgets and packages from pub.dev.
+            - Implemented user authentication and SSO using Firebase, reflecting state changes using Provider. 
+            - Prototyped a chat section using Cloud Firestore to connect users on the application.
         
           [[Drive]](https://drive.google.com/drive/u/0/folders/1-sTJRTzDhOe6hhWDwRLPQeIVHUUeyMkh) [[Code Repo]](https://github.com/KevMamba/Dystopia-Animal-Adoption-App)
         
