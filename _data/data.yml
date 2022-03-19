@@ -26,7 +26,7 @@ sidebar:
 #    stack-overflow: # Number/Username, e.g. 123456/alandoe
 #    codewars:
 #    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: https://github.com/Jeet1912/jeet1912.github.io/blob/master/_data/cv.pdf
 
     languages:
       - idiom: English
@@ -42,10 +42,11 @@ sidebar:
         level: Elementary
 
     interests:
-      - item: Cycling
+      - item: Programming Languages
         link:
-
       - item: Abacus
+        link:
+      - item: Cycling, Cricket and Fifa
         link:
 
 career-profile:
@@ -65,6 +66,7 @@ experiences:
       details: |
         Worked under the guidance of CTO, [[Mr Parth Srivastav]](www.linkedin.com/parth-srivastav) to develop a chronic disease - specific symptom tracking service
         for senior citizens. 
+        
             - Developed a cross-platform front-end using React for web browsers and React Native for mobile app to ensure responsiveness across devices.
             - Developed test suites to ensure that the application adhered to the design and was supported on target customer devices.
             - Developed microservices using serverless AWS Lambda functions to create a scalable backend for the mobile and Alexa application.
@@ -79,6 +81,7 @@ experiences:
       company: Dystopia, Bangalore
       details: |
         [[Dystopia]](https://www.instagram.com/dystopia_india/) is a student-run animal welfare organisation. The industry of breeding and selling animals is cruel and unjust to animals that don't sell and end up abandoned on the streets to say the least. Through this app, they aim to eliminate the need of a breeder/middleman
+            
              - Collaborated with a team of developers and designers on a pet adoption app from scratch following Layered Architecture.
              - Developed clean UI following the designs using standard Flutter widgets and packages from pub.dev.
              - Implemented user authentication and SSO using Firebase, reflecting state changes using Provider. 
