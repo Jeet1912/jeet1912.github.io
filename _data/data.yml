@@ -58,7 +58,7 @@ education:
       university: Manipal Academy of Higher Education
       time: 2017 - 2021
       details: |
-         CGPA - 7.78/10 (9.86, 9.0, 7.64 ...)
+        CGPA - 7.78/10 (9.86, 9.0, 7.64 ...)
     
 experiences:
     - role: Software Engineering Intern
@@ -67,31 +67,26 @@ experiences:
       details: |
         Worked under the guidance of CTO, [Mr Parth Srivastav](www.linkedin.com/parth-srivastav) to develop a chronic disease - specific symptom tracking service
         for senior citizens. 
+          - Developed a cross-platform front-end using React for web browsers and React Native for mobile app to ensure responsiveness across devices.
+          - Developed test suites to ensure that the application adhered to the design and was supported on target customer devices.
+          - Developed microservices using serverless AWS Lambda functions to create a scalable backend for the mobile and Alexa application.
+          - Implemented several Design Patterns like adapter and shared memory using React-Redux to create a single source of truth while developing the mobile app.
+          - Standardized formats of records in DynamoDB table using a script, preventing run-time errors in the future.
+          - Designed, coded and deployed RESTful APIs using SAM CLI and AWS CI/CD tools, reducing resource creation time at client side by 16%.
         
-        
-            - Developed a cross-platform front-end using React for web browsers and React Native for mobile app to ensure responsiveness across devices.
-            - Developed test suites to ensure that the application adhered to the design and was supported on target customer devices.
-            - Developed microservices using serverless AWS Lambda functions to create a scalable backend for the mobile and Alexa application.
-            - Implemented several Design Patterns like adapter and shared memory using React-Redux to create a single source of truth while developing the mobile app.
-            - Standardized formats of records in DynamoDB table using a script, preventing run-time errors in the future.
-            - Designed, coded and deployed RESTful APIs using SAM CLI and AWS CI/CD tools, reducing resource creation time at client side by 16%.
-        
-        [[MHT, UCI]](https://innovation.uci.edu/2020/09/myhealthtoday-closed-beta-launch/) [[Website - Beta]](https://beta.myhealthtoday.care) [[Mobile App]](https://play.google.com/store/apps/details?id=com.myhealthtoday.myhealthjournal) 
+        [[UCI Beall Applied Innovation]](https://innovation.uci.edu/2020/09/myhealthtoday-closed-beta-launch/) [[Website - Beta]](https://beta.myhealthtoday.care) [[Mobile App]](https://play.google.com/store/apps/details?id=com.myhealthtoday.myhealthjournal) [[Youtube]](https://www.youtube.com/watch?v=MPmevUA6ZSg)
     
     - role: Application Developer Intern
       time: Sept 2020 – Nov 2020
       company: Dystopia, Bangalore
       details: |
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
         [Dystopia](https://www.instagram.com/dystopia_india/) is a student-run animal welfare organisation. The industry of breeding and selling animals is cruel and unjust to animals that don't sell and end up abandoned on the streets to say the least. Through this app, they aim to eliminate the need of a breeder/middleman
-            - Collaborated with a team of developers and designers on a pet adoption app from scratch following Layered Architecture.
-            - Developed clean UI following the designs using standard Flutter widgets and packages from pub.dev.
-            - Implemented user authentication and SSO using Firebase, reflecting state changes using Provider. 
-            - Prototyped a chat section using Cloud Firestore to connect users on the application.
+          - Collaborated with a team of developers and designers on a pet adoption app from scratch following Layered Architecture.
+          - Developed clean UI following the designs using standard Flutter widgets and packages from pub.dev.
+          - Implemented user authentication and SSO using Firebase, reflecting state changes using Provider. 
+          - Prototyped a chat section using Cloud Firestore to connect users on the application.
         
-          [[Drive]](https://drive.google.com/drive/u/0/folders/1-sTJRTzDhOe6hhWDwRLPQeIVHUUeyMkh) [[Code Repo]](https://github.com/KevMamba/Dystopia-Animal-Adoption-App)
+          [[Google Drive]](https://drive.google.com/drive/u/0/folders/1-sTJRTzDhOe6hhWDwRLPQeIVHUUeyMkh) [[Code Repo]](https://github.com/KevMamba/Dystopia-Animal-Adoption-App)
         
 projects:
     title: Projects
