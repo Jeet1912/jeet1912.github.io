@@ -1,2 +1,5 @@
-A repo for my [resume website](https://jeet1912.github.io)
+A repo for my resume website at -
+
+    jeet1912.github.io
+  
 
