@@ -80,13 +80,13 @@ experiences:
         
         Skills - Fullstack Development and Project Management.
         
-        [[About MHT]](https://innovation.uci.edu/2020/09/myhealthtoday-closed-beta-launch/) [[Website]]((https://beta.myhealthtoday.care)) [[Playstore]]((https://play.google.com/store/apps/details?id=com.myhealthtoday.myhealthjournal)) [[Youtube Demo]](https://www.youtube.com/watch?v=MPmevUA6ZSg) [[Project Report]](https://jeet1912.github.io/assets/docs/reports/170905316_MHT_FinalReport.pdf)
+        [[About MHT]](https://innovation.uci.edu/2020/09/myhealthtoday-closed-beta-launch/) [[Website]]((https://beta.myhealthtoday.care)) [[Playstore]]((https://play.google.com/store/apps/details?id=com.myhealthtoday.myhealthjournal)) [[Youtube Demo]](https://www.youtube.com/watch?v=MPmevUA6ZSg)
     
     - role: Application Developer Intern
       time: Sept 2020 – Nov 2020
       company: Dystopia, Bangalore
       details: |
-        [Dystopia](https://www.instagram.com/dystopia_india/) is a student-run animal welfare organisation. The industry of breeding and selling animals is cruel and unjust to animals that don't sell and end up abandoned on the streets to say the least. Through this app, they aim to eliminate the need of a breeder/middleman
+        [Dystopia](https://www.instagram.com/dystopia_india/) is a student-run animal welfare organisation. The industry of breeding and selling animals is cruel and unjust to animals that don't sell and end up abandoned on the streets to say the least. Through this app, they aimed to eliminate the need of a breeder/middleman.
           - Collaborated with a team of developers and designers on a pet adoption app from scratch following Layered Architecture.
           - Developed clean UI following the designs using standard Flutter widgets and packages from pub.dev.
           - Implemented user authentication and SSO using Firebase, reflecting state changes using Provider. 
