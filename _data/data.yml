@@ -52,13 +52,14 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Demonstrated experience as a full stack generalist. Graduate from <b>Manipal Institution of Technology, India</b> in <b>Computer Science and Engineering</b> with CGPA - 7.78 / 10 (9.86, 9.0,..).
+      Demonstrated experience as a full stack generalist. Graduate from <b>Manipal Institution of Technology, India</b> in <b>Computer Science and Engineering</b>, minor in <b>Computational Mathematics</b> 
+      with  CGPA - 7.78 / 10 (9.86, 9.0,..).
       
-      Keen interests in - Machine Learning, Blockchain Technology and Technology Policy.
+      Keen interests in - <b>Machine Learning, Blockchain Technology and Technology Policy.</b>
       
       [[MOOCS]](https://jeet1912.github.io/assets/docs/moocs.pdf) [[Certificates]](https://jeet1912.github.io/assets/docs/certificates.pdf)
 education:
-    - degree: B.Tech in Computer Science and Engineering with minor in Computational Mathematics
+    - degree: B.Tech in Computer Science and Engineering
       university: Manipal Academy of Higher Education
       time: 2017 - 2021
       details: |
@@ -70,14 +71,14 @@ experiences:
       details: |
         Worked under the guidance of CTO, [Mr Parth Srivastav](www.linkedin.com/parth-srivastav) to develop a chronic disease - specific symptom tracking service
         for senior citizens. 
-          - Developed a cross-platform front-end using React for [web](https://beta.myhealthtoday.care) browsers and React Native for [mobile app](https://play.google.com/store/apps/details?id=com.myhealthtoday.myhealthjournal) to ensure responsiveness across devices.
+          - Developed a cross-platform front-end using React for web browsers and React Native for mobile app to ensure responsiveness across devices.
           - Developed test suites to ensure that the application adhered to the design and was supported on target customer devices.
           - Developed microservices using serverless AWS Lambda functions to create a scalable backend for the mobile and Alexa application.
           - Implemented several Design Patterns like adapter and shared memory using React-Redux to create a single source of truth while developing the mobile app.
           - Standardized formats of records in DynamoDB table using a script, preventing run-time errors in the future.
           - Designed, coded and deployed RESTful APIs using SAM CLI and AWS CI/CD tools, reducing resource creation time at client side by 16%.
         
-        [[UCI Beall Applied Innovation]](https://innovation.uci.edu/2020/09/myhealthtoday-closed-beta-launch/) [[Youtube]](https://www.youtube.com/watch?v=MPmevUA6ZSg) [[Project Report]](https://jeet1912.github.io/assets/docs/reports/170905316_MHT_FinalReport.pdf)
+        [[UCI Beall Applied Innovation]](https://innovation.uci.edu/2020/09/myhealthtoday-closed-beta-launch/) [[Website]]((https://beta.myhealthtoday.care)) [[Playstore]]((https://play.google.com/store/apps/details?id=com.myhealthtoday.myhealthjournal)) [[Youtube Demo]](https://www.youtube.com/watch?v=MPmevUA6ZSg) [[Project Report]](https://jeet1912.github.io/assets/docs/reports/170905316_MHT_FinalReport.pdf)
     
     - role: Application Developer Intern
       time: Sept 2020 – Nov 2020
