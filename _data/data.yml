@@ -53,11 +53,11 @@ career-profile:
     title: Career Profile
     summary: |
       Demonstrated experience as a full stack generalist. Graduate from <b>Manipal Institution of Technology, India</b> in <b>Computer Science and Engineering</b>, minor in <b>Computational Mathematics</b> 
-      with  <b>CGPA of 7.78/10 (9.86, 9.0,..)</b>.
+      with <b>CGPA of 7.78/10 (9.86, 9.0,..)</b>. Passionate about applications of technology to facilitate social change.  
       
-      Keen interests in - <b>Data Science and Analytics, Machine Learning, Blockchain Technology and Technology Policy.</b>
+      Keen interests in - <b>Data Science and Analytics, Artificial Intelligence, Blockchain and Technology Policy.</b>
       
-      [[MOOCS]](https://jeet1912.github.io/assets/docs/moocs.pdf) [[Certificates]](https://jeet1912.github.io/assets/docs/certificates.pdf)
+      [[MOOCs]](https://jeet1912.github.io/assets/docs/moocs.pdf) [[Certificates]](https://jeet1912.github.io/assets/docs/certificates.pdf)
 education:
     - degree: B.Tech in Computer Science and Engineering
       university: Manipal Academy of Higher Education
@@ -98,21 +98,21 @@ projects:
     
     assignments:
       - title: Whatsapp Chatbot
-        tagline: |
+        tagline: |</br>
                 "Serves as an emergency service for Dystopia, providing contacts of nearby vets and shelters."
         
       - title: Fingerprint Recognition System
-        tagline: |
+        tagline: |</br>
                 "Based on forensic datafrom KMC, Manipal."
 
       - title: Open Source Contribution
         link: "https://github.com/toystars/react-native-multiple-select/pull/171"
-        tagline: |
+        tagline: |</br>
                 "Introduced a boolean argument to display #selected_items in <i>’react-native-multiple-select’</i> by <i>toystars</i> [<b>450+</b> stars, <b>250k+</b> downloads]."
 
       - title: Covid-19 Dashboard
         link: "https://github.com/Jeet1912/Covid-19-Dashboard-using-REST-API"
-        tagline: |
+        tagline: |</br>
                 "Shows global Covid-19 details using REST protocol to fetch data from a Firebase App, with offline functionality using shared preferences and error handling services."
       
       
