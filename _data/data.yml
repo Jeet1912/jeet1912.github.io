@@ -100,24 +100,24 @@ projects:
       - title: Whatsapp Chatbot
         tagline: | 
                 </br>
-                "Serves as an emergency service for Dystopia, providing contacts of nearby vets and shelters."
+                Serves as an emergency service for Dystopia, providing contacts of nearby vets and shelters.
         
       - title: Fingerprint Recognition System
         tagline: |
                 </br>
-                "Based on forensic datafrom KMC, Manipal."
+                Based on forensic datafrom KMC, Manipal.
 
       - title: Open Source Contribution
         link: "https://github.com/toystars/react-native-multiple-select/pull/171"
         tagline: |
                 </br>
-                "Introduced a boolean argument to display #selected_items in <i>’react-native-multiple-select’</i> by <i>toystars</i> [<b>450+</b> stars, <b>250k+</b> downloads]."
+                Introduced a boolean argument to display #selected_items in <i>’react-native-multiple-select’</i> by <i>toystars</i> [<b>450+</b> stars, <b>250k+</b> downloads].
 
       - title: Covid-19 Dashboard
         link: "https://github.com/Jeet1912/Covid-19-Dashboard-using-REST-API"
         tagline: |
                 </br>
-                "Shows global Covid-19 details using REST protocol to fetch data from a Firebase App, with offline functionality using shared preferences and error handling services."
+                Shows global Covid-19 details using REST protocol to fetch data from a Firebase App, with offline functionality using shared preferences and error handling services.
       
       
 
