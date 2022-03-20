@@ -55,10 +55,11 @@ career-profile:
       Graduated in Computer Science and Engineering from Manipal Institution of Technology, India.
       [[MOOCS]](https://jeet1912.github.io/assets/docs/moocs.pdf) [[Certificates]](https://jeet1912.github.io/assets/docs/certificates.pdf)
 education:
-    - degree: B.Tech in Computer Science and Engineering
+    - degree: B.Tech in Computer Science and Engineering with minor in Computational Mathematics
       university: Manipal Academy of Higher Education
       time: 2017 - 2021
       details: |
+        just checking
     
 experiences:
     - role: Software Engineering Intern
