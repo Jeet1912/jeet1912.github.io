@@ -42,11 +42,11 @@ sidebar:
         level: Elementary
 
     interests:
-      - item: Multiparadigm programming languages
-        link:
       - item: Abacus
         link:
       - item: Cycling, Cricket and Fifa
+        link:
+      - item: Multiparadigm programming languages
         link:
 
 career-profile:
@@ -55,7 +55,7 @@ career-profile:
       Demonstrated experience as a full stack generalist. Graduate from <b>Manipal Institution of Technology, India</b> in <b>Computer Science and Engineering</b>, minor in <b>Computational Mathematics</b> 
       with <b>CGPA of 7.78/10 (9.86, 9.0,..)</b>. Passionate about applications of technology to facilitate positive social change.  
       <b>Primary Interests</b>: Blockchain Technology, Data Science and Analytics.                                                                 
-      <b>Secondary Interests</b>: AI in Behavioural and Mental Health, Digital Technology Policy.
+      <b>Secondary Interests</b>: AI in Behavioral and Mental Health, Digital Technology Policy.
        
       [[MOOCs]](https://jeet1912.github.io/assets/docs/moocs.pdf) [[Certificates]](https://jeet1912.github.io/assets/docs/certificates.pdf)
       
@@ -64,6 +64,17 @@ education:
       university: Manipal Academy of Higher Education
       time: 2017 - 2021
       details: |
+        Coursework: - Data Structures and Algorithms, Database Systems, Software Engineering, Computer Networks and MATLAB.
+                    - Time Series Analysis, Stochastic Processes, Computational Linear Algebra and Design of Experiments.
+                    - Essentials of Management, Engineering Economics, and Business Intelligence.
+    - degree: Class XII in TSBIE
+      university: FIITJEE Junior College
+      time: 2015 - 2017
+      details: |
+        Coursework: Maths, Physics, Chemistry, English and French.
+    - degree: Class X in CBSE
+      university: Delhi Public School
+        
     
 experiences:
     - role: Software Engineering Intern
@@ -90,7 +101,7 @@ experiences:
           - Collaborated with a team of developers and designers on a pet adoption app from scratch following Layered Architecture.
           - Developed clean UI following the designs using standard Flutter widgets and packages from pub.dev.
           - Implemented user authentication and SSO using Firebase, reflecting state changes using Provider. 
-          - Prototyped a chat section using Cloud Firestore to connect users on the application.
+          - Prototyped a chat section using Cloud Firestore to connect users on the application without giving away any sensitive information.
         
           [[Google Drive]](https://drive.google.com/drive/u/0/folders/1-sTJRTzDhOe6hhWDwRLPQeIVHUUeyMkh) [[Code Repo]](https://github.com/KevMamba/Dystopia-Animal-Adoption-App)
         
