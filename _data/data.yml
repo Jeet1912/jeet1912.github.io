@@ -55,7 +55,8 @@ career-profile:
       Demonstrated experience as a full stack generalist. Graduate from <b>Manipal Institution of Technology, India</b> in <b>Computer Science and Engineering</b>, minor in <b>Computational Mathematics</b> 
       with <b>CGPA of 7.78/10 (9.86, 9.0,..)</b>. Passionate about applications of technology to facilitate positive social change.  
       
-      Interested in - <b>Artificial Intelligence in Behavioural and Mental Health, Blockchain Technology, Data Science and Digital Technology Policy.</b>
+      Primary Interests - <b>Blockchain Technology, Data Science.</b>
+      Secondary Interests - <b>Artificial Intelligence in Behavioural and Mental Health, Digital Technology Policy. </b> 
       
       [[MOOCs]](https://jeet1912.github.io/assets/docs/moocs.pdf) [[Certificates]](https://jeet1912.github.io/assets/docs/certificates.pdf)
 education:
@@ -69,8 +70,8 @@ experiences:
       time: Dec 2020 – Jun 2021
       company: MyHealthToday, San Francisco
       details: |
-        Worked under the guidance of CTO, [Mr Parth Srivastav](www.linkedin.com/parth-srivastav) to develop a chronic disease - specific symptom tracking service
-        for senior citizens. 
+        
+        In this role, I worked under [Mr. Parth Srivastav](www.linkedin.com/parth-srivastav) to build a minimum viable product.
           - Developed a cross-platform front-end using React for web browsers and React Native for mobile app to ensure responsiveness across devices.
           - Developed test suites to ensure that the application adhered to the design and was supported on target customer devices.
           - Developed microservices using serverless AWS Lambda functions to create a scalable backend for the mobile and Alexa application.
@@ -78,7 +79,7 @@ experiences:
           - Standardized formats of records in DynamoDB table using a script, preventing run-time errors in the future.
           - Designed, coded and deployed RESTful APIs using SAM CLI and AWS CI/CD tools, reducing resource creation time at client side by 16%.
         
-        Skills - Fullstack Development and Project Management.
+        Skills - Fullstack Development, Project Management and Strategic Thinking.
         
         [[About MHT]](https://innovation.uci.edu/2020/09/myhealthtoday-closed-beta-launch/) [[Project Website]](https://beta.myhealthtoday.care) [[Playstore]](https://play.google.com/store/apps/details?id=com.myhealthtoday.myhealthjournal) [[Youtube Demo]](https://www.youtube.com/watch?v=MPmevUA6ZSg)
     
