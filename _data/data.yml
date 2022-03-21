@@ -63,16 +63,7 @@ education:
     - degree: B.Tech in Computer Science and Engineering
       university: Manipal Academy of Higher Education
       time: 2017 - 2021
-      details: Coursework -  
-        - Data Structures and Algorithms, Database Systems, Software Engineering, Computer Networks and MATLAB.
-        - Time Series Analysis, Stochastic Processes, Computational Linear Algebra and Design of Experiments.
-        - Essentials of Management, Engineering Economics, and Business Intelligence.
-    - degree: Class XII in TSBIE
-      university: FIITJEE Junior College
-      time: 2015 - 2017
-      details: Coursework - Maths, Physics, Chemistry, English and French.
-    - degree: Class X in CBSE
-      university: Delhi Public School
+      details:
         
     
 experiences:
