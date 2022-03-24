@@ -76,7 +76,7 @@ experiences:
           - Developed test suites to ensure that the application adhered to the design and was supported on target customer devices.
           - Standardized formats of records in DynamoDB table using a script, preventing run-time errors in the future.
           - Developed microservices using serverless AWS Lambda functions to create a scalable backend for the mobile and Alexa application.
-          - Implemented several Design Patterns like adapter, state, decorator and observer using React-Redux to improve code readability while developing the mobile app.
+          - Implemented several Design Patterns like adapter, state, decorator and observer using React-Redux to create a single source of truth while developing the mobile app.
           - Designed, coded and deployed RESTful APIs using SAM CLI and AWS CI/CD tools, reducing resource creation time at client side by 16%.
         
         Skills - Fullstack Development, Project Management and Strategic Thinking.
