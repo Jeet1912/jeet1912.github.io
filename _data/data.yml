@@ -122,10 +122,10 @@ projects:
                 </br>
                 Shows global Covid-19 details using REST protocol to fetch data from a Firebase App, with offline functionality using shared preferences and error handling services.
                 
-      - title: GUI for Projectile Motion
+      - title: Projectile Motion GUI
         link: "https://docs.google.com/document/d/1da61t8eEzwXGUEYhDfEcee075xHPArmsRReNTpp1IME/edit?usp=sharing"
         tagline: |
-          As a part of the MATLAB for Engineers course, built an application that computes velocity in x and y directions, displacement in x-direction after time t  and the angle of projection of a particle following projectile trajectory motion.
+              As a part of the MATLAB for Engineers course, built an application that computes velocity in x and y directions, displacement in x-direction after time t  and the angle of projection of a particle following projectile trajectory motion.
       
       
 
