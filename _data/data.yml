@@ -74,9 +74,9 @@ experiences:
         In this role, I worked under [Mr. Parth Srivastav](https://www.linkedin.com/in/parth-srivastav/) to build a minimum viable product.
           - Developed a cross-platform front-end using React for web browsers and React Native for mobile app to ensure responsiveness across devices.
           - Developed test suites to ensure that the application adhered to the design and was supported on target customer devices.
+          - Implemented several Design Patterns like adapter, state, decorator and observer using React-Redux to create a single source of truth while developing the mobile app.
           - Standardized formats of records in DynamoDB table using a script, preventing run-time errors in the future.
           - Developed microservices using serverless AWS Lambda functions to create a scalable backend for the mobile and Alexa application.
-          - Implemented several Design Patterns like adapter, state, decorator and observer using React-Redux to create a single source of truth while developing the mobile app.
           - Designed, coded and deployed RESTful APIs using SAM CLI and AWS CI/CD tools, reducing resource creation time at client side by 16%.
         
         Skills - Fullstack Development, Project Management and Strategic Thinking.
@@ -93,7 +93,7 @@ experiences:
           - Implemented user authentication and SSO using Firebase, reflecting state changes using Provider. 
           - Prototyped a chat section using Cloud Firestore to connect users on the application.
         
-          [[Google Drive]](https://drive.google.com/drive/u/0/folders/1-sTJRTzDhOe6hhWDwRLPQeIVHUUeyMkh) [[Code Repo]](https://github.com/KevMamba/Dystopia-Animal-Adoption-App)
+          [[Demo]](https://drive.google.com/drive/u/0/folders/1-sTJRTzDhOe6hhWDwRLPQeIVHUUeyMkh) [[Code Repo]](https://github.com/KevMamba/Dystopia-Animal-Adoption-App)
         
 projects:
     title: Projects
