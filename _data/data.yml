@@ -125,9 +125,8 @@ projects:
         link: "https://github.com/Jeet1912/CM"
         tagline: |
           As a part of 
-            - Applied Statistics and Time Series Analysis Course, implemented linear trend and moving averages for carbon dioxide emissions and crime data using Python, analysing the effect of &Delta:span of moving average in the latter.
+            - Applied Statistics and Time Series Analysis Course, implemented linear trend and moving averages for carbon dioxide emissions and crime data using Python, analysing the effect of change of span of moving average in the latter.
             - Design of Experiments course, implemented one way anova test using Python.
-          
                 
       - title: Projectile Motion GUI
         link: "https://docs.google.com/document/d/1da61t8eEzwXGUEYhDfEcee075xHPArmsRReNTpp1IME/edit?usp=sharing"
