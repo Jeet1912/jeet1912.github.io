@@ -53,7 +53,8 @@ career-profile:
     title: Career Profile
     summary: |
       Demonstrated experience as a full stack generalist. Graduate from <b>Manipal Institution of Technology, India</b> in <b>Computer Science and Engineering</b>, minor in <b>Computational Mathematics</b> 
-      with <b>CGPA of 7.78/10 (9.86, 9.0,..)</b>. Passionate about applications of technology to facilitate positive social change.  
+      with <b>CGPA of 7.78/10 (9.86, 9.0,..)</b>. Passionate about applications of technology to facilitate positive social change.
+      
       <b>Primary Interests</b>: Blockchain Technology, Data Science and Analytics.                                                                 
       <b>Secondary Interests</b>: AI in Behavioral and Mental Health, Digital Technology Policy.
        
@@ -114,7 +115,7 @@ projects:
         link: "https://github.com/toystars/react-native-multiple-select/pull/171"
         tagline: |
                 </br>
-                Introduced a boolean argument to display #selected_items in <i>’react-native-multiple-select’</i> by <i>toystars</i> [<b>450+</b> stars, <b>250k+</b> downloads].
+                Introduced a boolean argument to display #selected_items in <i>react-native-multiple-select</i> by <i>toystars</i> [<b>450+</b> stars, <b>250k+</b> downloads].
 
       - title: Covid-19 Dashboard
         link: "https://github.com/Jeet1912/Covid-19-Dashboard-using-REST-API"
@@ -122,11 +123,18 @@ projects:
                 </br>
                 Shows global Covid-19 details using REST protocol to fetch data from a Firebase App, with offline functionality using shared preferences and error handling services.
                 
+      - title: CM assignments
+        link: "https://github.com/Jeet1912/CM"
+        tagline: </br>
+               test
+                
+      
+                
       - title: Projectile Motion GUI
         link: "https://docs.google.com/document/d/1da61t8eEzwXGUEYhDfEcee075xHPArmsRReNTpp1IME/edit?usp=sharing"
         tagline: |
                 </br>
-                As a part of the MATLAB for Engineers course, built an application that computes velocity in x and y directions, displacement in x-direction after time t  and the angle of projection of a particle following projectile trajectory motion.
+                As a part of the MATLAB for Engineers course, built an application that computes velocity in x and y directions, displacement in x-direction after time t and the angle of projection of a particle following projectile trajectory motion.
       
       
 
