@@ -72,7 +72,7 @@ experiences:
       time: Dec 2020 – Jun 2021
       company: MyHealthToday, San Francisco
       details: |
-        In this role, I worked under [Mr. Parth Srivastav](https://www.linkedin.com/in/parth-srivastav/) to build a minimum viable product.
+        In this role, I worked under [Mr. Parth Srivastav](https://www.linkedin.com/in/parth-srivastav/) to build a minimum viable product of a patient engagement service that empowers senior citizens to self report their health information.
           - Developed a cross-platform front-end using React for web browsers and React Native for mobile app to ensure responsiveness across devices.
           - Developed test suites to ensure that the application adhered to the design and was supported on target customer devices.
           - Implemented several Design Patterns like adapter, state, decorator and observer using React-Redux to create a single source of truth while developing the mobile app.
