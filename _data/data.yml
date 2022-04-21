@@ -52,7 +52,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Demonstrated experience as a full stack generalist. Graduate from <b>Manipal Institution of Technology, India</b> in <b>Computer Science and Engineering</b>, minor in <b>Computational Mathematics</b> 
+      Demonstrated experience as a full stack generalist. Graduate from <b>Manipal Institute of Technology, India</b> in <b>Computer Science and Engineering</b>, minor in <b>Computational Mathematics</b> 
       with <b>CGPA of 7.78/10 (9.86, 9.0,..)</b>. Passionate about applications of technology to facilitate positive social change.
       
       <b>Primary Interests</b>: Blockchain Technology, Data Science and Analytics.                                                                 
@@ -88,7 +88,7 @@ experiences:
       time: Sept 2020 – Nov 2020
       company: Dystopia, Bangalore
       details: |
-        [Dystopia](https://www.instagram.com/dystopia_india/) is a student-run animal welfare organisation. The industry of breeding and selling animals is cruel and unjust to animals that don't sell and end up abandoned on the streets to say the least. Through this app, they aimed to eliminate the need of a breeder/middleman.
+        [Dystopia](https://www.instagram.com/dystopia_india/) is a student-run animal welfare organisation. Through this app, they aimed to eliminate the need of a breeder/middleman.
           - Collaborated with a team of developers and designers on a pet adoption app from scratch following Layered Architecture.
           - Developed clean UI following the designs using standard Flutter widgets and packages from pub.dev.
           - Implemented user authentication and SSO using Firebase, reflecting state changes using Provider. 
@@ -119,7 +119,7 @@ projects:
       - title: Covid-19 Dashboard
         link: "https://github.com/Jeet1912/Covid-19-Dashboard-using-REST-API"
         tagline: |
-          Shows global Covid-19 details using REST protocol to fetch data from a Firebase App, with offline functionality using shared preferences and error handling services.
+          Implemented as a part of Andrea Bizzoto's Flutter REST API crash course. The dashboard displays global Covid-19 stats using REST protocol to fetch data from a Firebase App, with offline functionality executed using shared preferences and error handling services.
                 
       - title: Minor Assignments
         link: "https://github.com/Jeet1912/CM"
