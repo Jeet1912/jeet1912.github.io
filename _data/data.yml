@@ -17,7 +17,7 @@ sidebar:
 #    website: blog.webjeda.com #do not add http://
     linkedin: abhijeet-sahdev
 #    xing: alandoe  
-    github: Jeet1912
+    github: lv1912
 #    telegram: # add your nickname without '@' sign
     gitlab: Jeet1912
 #    bitbucket:
@@ -25,7 +25,7 @@ sidebar:
 #    stack-overflow: # Number/Username, e.g. 123456/alandoe
 #    codewars:
     goodreads: 149158089-abhijeet
-    pdf: https://jeet1912.github.io/assets/docs/cv.pdf
+    pdf: https://lv1912.github.io/assets/docs/cv.pdf
 
     languages:
       - idiom: English
@@ -57,7 +57,7 @@ career-profile:
       <b>Primary Interests</b>: Blockchain Technology, Data Science and Analytics.                                                                 
       <b>Secondary Interests</b>: AI in Behavioral and Mental Health, Digital Technology Policy.
        
-      [[MOOCs]](https://jeet1912.github.io/assets/docs/moocs.pdf) [[Certificates]](https://jeet1912.github.io/assets/docs/certificates.pdf)
+      [[MOOCs]](https://lv1912.github.io/assets/docs/moocs.pdf) [[Certificates]](https://lv1912.github.io/assets/docs/certificates.pdf)
       
 education:
     - degree: B.Tech in Computer Science and Engineering
@@ -116,12 +116,12 @@ projects:
           Introduced a boolean argument to display #selected_items in <i>react-native-multiple-select</i> by <i>toystars</i> [<b>450+</b> stars, <b>250k+</b> downloads].
 
       - title: Covid-19 Dashboard
-        link: "https://github.com/Jeet1912/Covid-19-Dashboard-using-REST-API"
+        link: "https://github.com/lv1912/Covid-19-Dashboard-using-REST-API"
         tagline: |
           Implemented as a part of Andrea Bizzoto's Flutter REST API crash course. The dashboard displays global Covid-19 stats using REST protocol to fetch data from a Firebase App, with offline functionality executed using shared preferences and error handling services.
                 
       - title: Minor Assignments
-        link: "https://github.com/Jeet1912/CM"
+        link: "https://github.com/lv1912/CM"
         tagline: |
           As a part of 
             - Applied Statistics and Time Series Analysis Course, implemented linear trend and moving averages for carbon dioxide emissions and crime data using Python, analysing the effect of change of span of moving average in the latter.
