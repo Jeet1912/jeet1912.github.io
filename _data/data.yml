@@ -43,10 +43,9 @@ sidebar:
     interests:
       - item: Abacus
         link:
-      - item: Cycling, Cricket and Fifa
+      - item: Cycling and Fifa
         link:
-      - item: Multiparadigm programming languages
-        link:
+      
 
 career-profile:
     title: Career Profile
@@ -57,7 +56,7 @@ career-profile:
       <b>Primary Interests</b>: AI in Healthcare and Medicine.                                                                 
       <b>Secondary Interests</b>: Blockchain Technology.
        
-      [[MOOCs]](https://lv1912.github.io/assets/docs/moocs.pdf) [[Certificates]](https://lv1912.github.io/assets/docs/certificates.pdf)
+      [[MOOCs]](https://jeet1912.github.io/assets/docs/moocs.pdf) [[Certificates]](https://jeet1912.github.io/assets/docs/certificates.pdf)
       
 education:
     - degree: B.Tech in Computer Science and Engineering
