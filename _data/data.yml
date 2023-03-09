@@ -15,7 +15,7 @@ sidebar:
 #    phone: 012 345 6789
 #    citizenship:
 #    website: blog.webjeda.com #do not add http://
-    linkedin: abhijeet-sahdev
+#    linkedin: abhijeet-sahdev
 #    xing: alandoe  
     github: jeet1912
 #    telegram: # add your nickname without '@' sign
@@ -53,7 +53,7 @@ career-profile:
       Demonstrated experience as a full stack generalist. Graduate from <b>Manipal Institute of Technology, India</b> in <b>Computer Science and Engineering</b>, minor in <b>Computational Mathematics</b> 
       with <b>CGPA of 7.78/10 (9.86, 9.0,..)</b>. Passionate about applications of technology to facilitate positive social change.
       
-      <b>Primary Interests</b>: Data Science.                                                                 
+      <b>Primary Interests</b>: Data Science and Analytics.                                                                 
       <b>Secondary Interests</b>: Distributed Ledger Technology, AI in Healthcare and Medicine.
        
       [[MOOCs]](https://jeet1912.github.io/assets/docs/moocs.pdf) [[Certificates]](https://jeet1912.github.io/assets/docs/certificates.pdf)
@@ -155,6 +155,7 @@ projects:
         link: "https://docs.google.com/document/d/1da61t8eEzwXGUEYhDfEcee075xHPArmsRReNTpp1IME/edit?usp=sharing"
         tagline: |
           As a part of the MATLAB for Engineers course, built an application that computes velocity in x and y directions, displacement in x-direction after time t and the angle of projection of a particle following projectile trajectory motion.
+          
           [[Drive Link]](https://docs.google.com/document/d/1da61t8eEzwXGUEYhDfEcee075xHPArmsRReNTpp1IME/edit?usp=sharing)
       
       
