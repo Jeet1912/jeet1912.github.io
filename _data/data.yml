@@ -115,10 +115,9 @@ projects:
           Introduced a boolean argument to display #selected_items in <i>react-native-multiple-select</i> by <i>toystars</i> [<b>450+</b> stars, <b>250k+</b> downloads].
 
       - title: Verzeo Machine Learning Training Program
-        time: test 
         link: "https://github.com/jeet1912/Verzeo-Machine-Learning-Internship"
         tagline: |
-          Completed two minor and major projects with justifiable results as depicted in the reports and the git repo.
+          Performed data wrangling and exploratory data analyis on four projects with justifiable results as depicted in the reports and the git repo.
           
       - title: Covid-19 Dashboard
         link: "https://github.com/jeet1912/Covid-19-Dashboard-using-REST-API"
