@@ -119,10 +119,10 @@ projects:
         tagline: |
           Performed data wrangling and exploratory data analyis on four projects with justifiable results as depicted in the reports and the git repo.
       
-      -title: Waabec Hybrid App
-       link: "https://drive.google.com/file/d/1EipCdSwbyxxWABQslkiSeq22mOaJLvv2/view?usp=share_link"
-       tagline: |
-        A feasibility study on a hybrid application for Waabec that provides general, business, and sector specific language training to companies and organisations all over Spain in a multitude of languages.
+      - title: Waabec Hybrid App
+        link: "https://drive.google.com/file/d/1EipCdSwbyxxWABQslkiSeq22mOaJLvv2/view?usp=share_link"
+        tagline: |
+          A feasibility study on a hybrid application for Waabec that provides general, business, and sector specific language training to companies and organisations all over Spain in a multitude of languages.
        
       - title: Covid-19 Dashboard
         link: "https://github.com/jeet1912/Covid-19-Dashboard-using-REST-API"
