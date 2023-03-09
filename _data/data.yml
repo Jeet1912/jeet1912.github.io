@@ -19,7 +19,7 @@ sidebar:
 #    xing: alandoe  
     github: jeet1912
 #    telegram: # add your nickname without '@' sign
-    gitlab: Jeet1912
+#    gitlab: Jeet1912
 #    bitbucket:
 #    twitter: '@webjeda'
 #    stack-overflow: # Number/Username, e.g. 123456/alandoe
@@ -114,7 +114,7 @@ projects:
         tagline: |
           Introduced a boolean argument to display #selected_items in <i>react-native-multiple-select</i> by <i>toystars</i> [<b>450+</b> stars, <b>250k+</b> downloads].
 
-      - title: Verzeo Machine Learning Training Program
+      - title: Machine Learning at Verzeo
         link: "https://github.com/jeet1912/Verzeo-Machine-Learning-Internship"
         tagline: |
           Performed data wrangling and exploratory data analyis on four projects with justifiable results as depicted in the reports and the git repo.
