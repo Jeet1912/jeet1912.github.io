@@ -116,6 +116,10 @@ projects:
           
           [[Pull Request]](https://github.com/toystars/react-native-multiple-select/pull/171)
           
+      - title: DataCamp Data Scientist with Python
+        link: "https://github.com/jeet1912/Datacamp"
+        tagline: |
+          Notebooks and other exercises implemented in Python.
 
       - title: Machine Learning at Verzeo
         link: "https://github.com/jeet1912/Verzeo-Machine-Learning-Internship"
