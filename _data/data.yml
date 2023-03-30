@@ -126,7 +126,9 @@ projects:
       - title: Competitive Programming
         link: "https://github.com/jeet1912/leetcode"
         tagline: |
-          Leetcode's Competitive Programming Crash Course implemented in Python
+          Leetcode's Competitive Programming Crash Course implemented in Python.
+          
+          [[Repository]]("https://github.com/jeet1912/leetcode")
 
       - title: Machine Learning at Verzeo
         link: "https://github.com/jeet1912/Verzeo-Machine-Learning-Internship"
