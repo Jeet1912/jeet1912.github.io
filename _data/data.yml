@@ -116,7 +116,7 @@ projects:
           
           [[Pull Request]](https://github.com/toystars/react-native-multiple-select/pull/171)
           
-      - title: DataCamp Data Scientist with Python
+      - title: DataCamp Data Scientist
         link: "https://github.com/jeet1912/Datacamp"
         tagline: |
           Notebooks and other exercises implemented in Python for Data Scientist Career track (6 projects, 23 courses and 3 Assessments).
@@ -171,7 +171,8 @@ projects:
           
           [[Drive Link]](https://docs.google.com/document/d/1da61t8eEzwXGUEYhDfEcee075xHPArmsRReNTpp1IME/edit?usp=sharing)
       
-      
+accomplishments:      
+ 
 #publications:
 #    title: Publications
 #    intro: |
