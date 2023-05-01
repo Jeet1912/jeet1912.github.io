@@ -99,16 +99,6 @@ projects:
     intro: >
     
     assignments:
-#      - title: Whatsapp Chatbot
-#        tagline: | 
-#                </br>
-#                Serves as an emergency service for Dystopia, providing contacts of nearby vets and shelters.
-        
-#      - title: Fingerprint Recognition System
-#        tagline: |
-#                </br>
-#                Using OpenCV, based on forensic data from KMC, Manipal.
-
       - title: Open Source Contribution
         link: "https://github.com/toystars/react-native-multiple-select/pull/171"
         tagline: |
@@ -129,6 +119,11 @@ projects:
           Leetcode's Competitive Programming Crash Course implemented in Python.
           
           [[Code Repository]](https://github.com/jeet1912/leetcode)
+      
+      - title: A report on Change Detection of Deforestion in Brazilian Amazon
+        link: "https://github.com/jeet1912/jeet1912.github.io/blob/master/assets/docs/2020___7A2___Technical_Seminar___Report___170905316___Abhjieet_Sahdev.pdf"
+        tagline: |
+          As a part of Seminar course, presented a report on a research paper that detected the change in deforestion in Brazilian Amazon using Landsat Data and Convolutional Neural Networks.
 
       - title: Machine Learning at Verzeo
         link: "https://github.com/jeet1912/Verzeo-Machine-Learning-Internship"
