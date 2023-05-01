@@ -120,11 +120,7 @@ projects:
           
           [[Code Repository]](https://github.com/jeet1912/leetcode)
       
-      - title: A report on Change Detection of Deforestion in Brazilian Amazon
-        link: "https://github.com/jeet1912/jeet1912.github.io/blob/master/assets/docs/2020___7A2___Technical_Seminar___Report___170905316___Abhjieet_Sahdev.pdf"
-        tagline: |
-          As a part of Seminar course, presented a report on a research paper that detected the change in deforestion in Brazilian Amazon using Landsat Data and Convolutional Neural Networks.
-
+      
       - title: Machine Learning at Verzeo
         link: "https://github.com/jeet1912/Verzeo-Machine-Learning-Internship"
         tagline: |
